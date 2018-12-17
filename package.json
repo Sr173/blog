@@ -3,19 +3,19 @@
   "version": "3.0.9",
   "description": "a vue with github api blog , just a page and super lite by rozbo",
   "scripts": {
-    "dev": "webpack-dev-server --mode=development --output-filename='build.js'  --inline --hot --no-info --history-api-fallback --compress --port 4000",
+    "dev": "webpack-dev-server --mode=development --output-filename='main-9865c48c46ca8a9f2c54.js'  --inline --hot --no-info --history-api-fallback --compress --port 4000",
     "build": "webpack --mode=production --progress --hide-modules"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rozbo/blog.git"
+    "url": "https://github.com/sr173/blog.git"
   },
-  "author": "rozbo",
+  "author": "sr173",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rozbo/blog/issues"
+    "url": "https://github.com/sr173/blog/issues"
   },
-  "homepage": "https://blog.zz173.com",
+  "homepage": "http://119.23.8.232:122",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/plugin-transform-runtime": "^7.1.0",

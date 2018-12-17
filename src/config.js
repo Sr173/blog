@@ -1,9 +1,9 @@
-export const config = {
+﻿export const config = {
     user: {
-        name: "rozbo",
+        name: "sr173",
         repo: "blog",
-        client_id: '39433d3b141ce642b576',
-        client_secret: '76a75f23eba46b6feabd610232714ef20cad377a'
+        client_id: '05d523861b07c16c7c21',
+        client_secret: '4fcf6adf85848c189132db21a9850362e7c4355e'
     },
     site: {
         name: '清风浦 Lite'

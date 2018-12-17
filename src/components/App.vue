@@ -12,10 +12,6 @@
         <router-view>
         </router-view>
     </section>
-    <footer class="main container-lg">
-        <p>This is A light style blog based on Vue with Github api, open source by
-            <a href="https://github.com/rozbo">rozbo</a></p>
-    </footer>
 </div>
 </template>
 <script>
